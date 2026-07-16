@@ -1,4 +1,4 @@
-# 设计：{{TOPIC_TITLE}}
+# 设计：Snapshot 快照
 
 ## 架构
 
